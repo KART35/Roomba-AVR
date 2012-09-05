@@ -1,0 +1,15 @@
+#include "/usr/share/arduino/hardware/arduino/cores/arduino/Arduino.h"
+
+
+class cliffSense {
+  int pin;
+  
+  
+public:
+  cliffSense();
+  
+  
+  
+  
+  ~cliffSense();
+};

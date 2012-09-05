@@ -1,0 +1,13 @@
+#include "/usr/share/arduino/hardware/arduino/cores/arduino/Arduino.h"
+#include "IRDevice.h"
+
+class wallFollow {
+  IRDevice *m_sense;
+  int m_pin;
+public:
+  wallFollow();
+  wallFollow(int pin);
+  bool wallDetect();
+  float wallRange(); /// TODO: get data on distance VS voltage.  
+  ~wallFollow();
+};

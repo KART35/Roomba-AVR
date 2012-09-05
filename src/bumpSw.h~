@@ -1,0 +1,12 @@
+#include "/usr/share/arduino/hardware/arduino/cores/arduino/Arduino.h"
+
+
+class bumpSw {
+  
+public:
+  bumpSw();
+  
+  
+  
+  ~bumpSw();
+};
