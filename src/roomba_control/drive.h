@@ -6,9 +6,9 @@
 #include "myMotor.h"
 #include "cliffSense.h"
 #include "bumpSw.h"
-#include "wallFollow.h"
+//#include "wallFollow.h"
 
-class drive : public wallFollow {
+class drive {
   myMotor *m_left;
   myMotor *m_right;
   /// TODO: impliment these sensors
@@ -17,7 +17,7 @@ class drive : public wallFollow {
   cliffSense *cliffC;
   bumpSw *bumpR;
   bumpSw *bumpL;
-  wallFollow *wallFollow;
+  //wallFollow *wallFollow;
 public:
   drive(int LpinA, int LpinB, int RpinA, int RpinB);
   drive();

@@ -1,0 +1,1 @@
+/usr/bin/avr-g++   -g -Os       -mcall-prologues -ffunction-sections -fdata-sections -fno-exceptions  -Wl,--gc-sections -lm -mmcu=atmega2560  CMakeFiles/roomba_control.dir/roomba_control_roomba_control.cpp.obj  -o roomba_control.elf  libmega2560_CORE.a -lc -lm 

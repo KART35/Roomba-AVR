@@ -1,0 +1,6 @@
+/home/ian/Documents/Roomba-AVR/Roomba-AVR/src/CMakeFiles/mega2560_CORE.dir
+/home/ian/Documents/Roomba-AVR/Roomba-AVR/src/CMakeFiles/roomba_control.dir
+/home/ian/Documents/Roomba-AVR/Roomba-AVR/src/CMakeFiles/roomba_control-burn.dir
+/home/ian/Documents/Roomba-AVR/Roomba-AVR/src/CMakeFiles/roomba_control-burn-bootloader.dir
+/home/ian/Documents/Roomba-AVR/Roomba-AVR/src/CMakeFiles/roomba_control-size.dir
+/home/ian/Documents/Roomba-AVR/Roomba-AVR/src/CMakeFiles/roomba_control-upload.dir
